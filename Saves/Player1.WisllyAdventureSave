@@ -1,0 +1,13 @@
+Test=1234
+PlayerPosX=0
+PlayerPosY=0
+PlayerPosZ=0
+Coins=1
+Damage=1
+HealthUp=0
+Level=1
+Shield=1
+ShieldUp=0
+DamageUp=0
+PlayerCurrentHealth=100
+PlayerMaxHealth=100
